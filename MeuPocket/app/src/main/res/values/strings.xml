@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MeuPocket</string>
+
+    <string name="tag">MEU_POCKET</string>
+
+    <string name="hint_titulo">Titulo</string>
+    <string name="hint_endereco">Endereço</string>
+    <string name="text_favorito">Favorito</string>
+    <string name="salvar">Salvar</string>
+
+    <string name="erro_cadastro_msg">Dados invalidos!</string>
+
+    <string name="file_site">meupocket.sites</string>
+    <string name="file_preferences">meupocket.preferencias</string>
+
+    <string name="key_titulo">TITULO</string>
+    <string name="key_endereco">ENDERECO</string>
+    <string name="key_favorito">SITE</string>
+    <string name="key_sites_db">SITES</string>
+
+    <string name="erro_recupera_lista">Erro ao recuperar lista de sites cadastrados.</string>
+</resources>
